@@ -1,7 +1,7 @@
 # bigdata-P2-Scala-Spark-App
 
 ## Project Description
-CLI Application for generating ecommerce data and performing analysis with Spark SQL, also implementing the Visualization
+CLI Application for generating eCommerce data and performing analysis with Spark SQL, also implementing the Visualization
 
 ## Technologies Used
 - IntelliJ IDEA version 2022.1.2
